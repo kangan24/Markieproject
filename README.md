@@ -1,4 +1,6 @@
 MARKIE BOT
+
+
 This chatbot, Markie, is a personal marketing assistant designed to generate creative product names and taglines. It uses Google's Gemini AI to suggest three unique product names along with catchy and relatable taglines that mix Hindi and English for added appeal.
 
 How it Works:
